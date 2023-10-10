@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3405137193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2ed9fd2a4d10f7fb2f4bd6000d43435
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5a626034720512459a9a4c6ce7774bec
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d2ed9fd2a4d10f7fb2f4bd6000d43435
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/SkyBox/Free Stylized Skybox/CubeMap/Textures/Sky_Anime_03_Day_a.png
+Dependencies: []

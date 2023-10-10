@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2906489433
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 369f23ae3c1f4d4ca2caf14cf1187d41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 369f23ae3c1f4d4ca2caf14cf1187d41
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/SkyBox/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_11_morning_a.mat
+Dependencies: []

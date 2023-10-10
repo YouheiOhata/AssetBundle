@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 222112601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d82981aa8fef804ad6873e9e468885d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28fb973baa42405c8f72923398dff70c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d82981aa8fef804ad6873e9e468885d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Map/Nature_pixel_art_assets/Nature_tiles_01/nature_environment_01_111.asset
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2527017224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a5a598b6976f36c02c4818d2354455b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 530bfdfdb9856adff39fd9d9c3b64964
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a5a598b6976f36c02c4818d2354455b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Map/Nature_pixel_art_assets/palette/Nature_environment_01.prefab
+Dependencies: []

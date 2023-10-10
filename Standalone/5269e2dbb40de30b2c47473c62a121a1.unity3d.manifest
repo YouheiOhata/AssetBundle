@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1712778686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b7a2f0f1e4f3c63256c4d8c4df4023d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9b7a2f0f1e4f3c63256c4d8c4df4023d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Map/Nature_pixel_art_assets/textures/nature_environment_01.png
+Dependencies: []

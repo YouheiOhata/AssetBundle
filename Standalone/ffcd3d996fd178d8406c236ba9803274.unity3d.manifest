@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3111733399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 194fae3e6be7237c2f01b83c56db5b61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 194fae3e6be7237c2f01b83c56db5b61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/03 The Cave/obsidian/02.png
+Dependencies: []

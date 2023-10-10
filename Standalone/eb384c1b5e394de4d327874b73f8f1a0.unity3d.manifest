@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3752215053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29555fb8ed6a3731e574f7fb2211601f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29555fb8ed6a3731e574f7fb2211601f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/yellow/button/facebook.png
+Dependencies: []

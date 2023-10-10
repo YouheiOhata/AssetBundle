@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2143095041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cca7c0234f8b2b963d51fe3ee83e9d15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cca7c0234f8b2b963d51fe3ee83e9d15
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/TextMeshProFont/school-characters-list.txt
+Dependencies: []

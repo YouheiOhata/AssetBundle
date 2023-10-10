@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2026398889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2265182f2bd944abcd69be331e566291
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2265182f2bd944abcd69be331e566291
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/Demo/Materials/Block.mat
+Dependencies: []

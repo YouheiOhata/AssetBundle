@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 70770269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65ec990dc186ff27140d7e71ea9ee4bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65ec990dc186ff27140d7e71ea9ee4bf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/02 The Forest/Mushroom/03.png
+Dependencies: []

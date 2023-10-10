@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2140621143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40ab6a29c3db84a785f523b4bcfa7ced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 40ab6a29c3db84a785f523b4bcfa7ced
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/red/frame/square frame.png
+Dependencies: []

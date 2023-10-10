@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2492785111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6e9b724a5ce20281ae3f13ccdccc53d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 395b9f925d13938d6184c83dfaf12ef8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a6e9b724a5ce20281ae3f13ccdccc53d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/SampleScene.unity
+Dependencies: []

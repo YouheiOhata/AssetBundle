@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2369365847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ed3191e1ca8540f92eb1633560d8bb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ed3191e1ca8540f92eb1633560d8bb3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/09 The Special/Coin/02.png
+Dependencies: []

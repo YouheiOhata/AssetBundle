@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1896049529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5077fc99f05aa1ca5bab9cc8b68a19c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 06f631ffe5ac23ab9453d679f6a4c96e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5077fc99f05aa1ca5bab9cc8b68a19c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Map/Nature_pixel_art_assets/Prefabs/Nature_props/Nature_props_07.prefab
+Dependencies: []

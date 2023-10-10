@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 819849211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e92ce94b8df8f97a597407764bc96ed8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e92ce94b8df8f97a597407764bc96ed8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/blue/button/sound.png
+Dependencies: []

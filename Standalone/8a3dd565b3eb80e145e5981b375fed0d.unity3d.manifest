@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1823722583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb486b27400d12f84279fde48c17d833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fb486b27400d12f84279fde48c17d833
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/07 RPG/Cthulhu/01.png
+Dependencies: []

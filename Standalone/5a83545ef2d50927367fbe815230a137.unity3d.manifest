@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2647289995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78bb0195200ef20ee488a0488824d655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 78bb0195200ef20ee488a0488824d655
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/04 Desret and
+  Ice/Cactus/04.png
+Dependencies: []

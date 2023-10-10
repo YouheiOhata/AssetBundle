@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1223181421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fa7ddb93df9e07141d38251fa599d15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4b57b1a56d6b76d200651994ae0863
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2fa7ddb93df9e07141d38251fa599d15
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/Demo/SampleSceneSettings.lighting
+Dependencies: []

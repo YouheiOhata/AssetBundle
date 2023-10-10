@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3199157634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f64348be9ba16afffb8c8bb75bceb9a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f64348be9ba16afffb8c8bb75bceb9a9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/03 The Cave/Diamond/03.png
+Dependencies: []

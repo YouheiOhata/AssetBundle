@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1427811833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b16dd2d5c265494ced984412cf3c871
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9b16dd2d5c265494ced984412cf3c871
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/04 Desret and
+  Ice/sand/03.png
+Dependencies: []

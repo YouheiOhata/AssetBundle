@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 616957628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: beb12f8b47b78ecf16a471e2489ba69d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: beb12f8b47b78ecf16a471e2489ba69d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/red/button/question.png
+Dependencies: []

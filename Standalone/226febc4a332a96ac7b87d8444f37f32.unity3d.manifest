@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3836405351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f8ce631d99d39a6f4536ec699abc52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38f8ce631d99d39a6f4536ec699abc52
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/00 Preview all/47.png
+Dependencies: []

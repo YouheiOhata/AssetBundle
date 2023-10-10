@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1247891808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e0dc0b52b9dc03bafb0c1bc62c41d55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e0dc0b52b9dc03bafb0c1bc62c41d55
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/03 The Cave/Stone/03.png
+Dependencies: []

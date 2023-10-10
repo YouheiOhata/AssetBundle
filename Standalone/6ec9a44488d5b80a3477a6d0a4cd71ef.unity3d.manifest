@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1609420323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e9c574aee0468074e535f91e2a34c28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e9c574aee0468074e535f91e2a34c28
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/10 Elitist Monster/Mud
+  King/03.png
+Dependencies: []

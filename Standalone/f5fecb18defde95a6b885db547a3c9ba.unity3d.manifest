@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3915320831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 792cacba220e05f6c55a8db4c6dd020c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 792cacba220e05f6c55a8db4c6dd020c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/yellow/figures/7.png
+Dependencies: []

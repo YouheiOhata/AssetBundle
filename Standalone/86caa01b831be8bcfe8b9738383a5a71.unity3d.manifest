@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3618575410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00524a92a304c0fc6f429f4c0855486e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd6acaf1aaec159fb3b4e5ceab71b539
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 00524a92a304c0fc6f429f4c0855486e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/SkyBox/Free Stylized Skybox/CubeMap/Materials/Sky_Anime_15_Day_a.mat
+Dependencies: []

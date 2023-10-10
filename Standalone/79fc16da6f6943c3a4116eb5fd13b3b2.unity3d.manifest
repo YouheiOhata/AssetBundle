@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1880781750
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0130ee4e4c7123ee838cd1845cd4ed84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0130ee4e4c7123ee838cd1845cd4ed84
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Map/Nature_pixel_art_assets/pixel_snapping_README.txt
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4202532491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef428de987a3c995fa941201763fa73b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ef428de987a3c995fa941201763fa73b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/yellow/button/Invite.png
+Dependencies: []

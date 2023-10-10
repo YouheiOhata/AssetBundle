@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 764101747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec1ce388222e3a46a74d5d892838f868
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec1ce388222e3a46a74d5d892838f868
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/SkyBox/Free Stylized Skybox/Panoramic/Materials/Sky_Anime_15_Day_a.mat
+Dependencies: []

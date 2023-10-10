@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 314574460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dd1cf76012c147e7d88c43ac384a1fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8dd1cf76012c147e7d88c43ac384a1fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/06 Element/Light/02.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 486419058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2db3fe4d0ed4cbf671a366fcf3345966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2db3fe4d0ed4cbf671a366fcf3345966
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/red/figures/7.png
+Dependencies: []

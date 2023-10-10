@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2132331969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 761a1b7a03cdbff92633e52de46b0aea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 761a1b7a03cdbff92633e52de46b0aea
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/lilac/figures/6.png
+Dependencies: []

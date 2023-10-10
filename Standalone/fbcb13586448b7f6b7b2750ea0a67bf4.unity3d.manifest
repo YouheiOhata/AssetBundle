@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 75242555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167082b165ba38fa7fe904a5ed337012
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 167082b165ba38fa7fe904a5ed337012
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/07 RPG/Demon/04.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2134340093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f67c50a9da46af158e705e34f2bf050
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0f67c50a9da46af158e705e34f2bf050
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/09 The Special/Sword/03.png
+Dependencies: []

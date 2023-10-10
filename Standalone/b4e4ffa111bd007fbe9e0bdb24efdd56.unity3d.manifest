@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3965381842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75bb0709ecb6e00c1e25dbf3e948ddaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 75bb0709ecb6e00c1e25dbf3e948ddaf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/lilac/button/lock.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2918817052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4acc3cbbebadd849c25a7dd9573815d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d4acc3cbbebadd849c25a7dd9573815d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/blue/button/repeat.png
+Dependencies: []

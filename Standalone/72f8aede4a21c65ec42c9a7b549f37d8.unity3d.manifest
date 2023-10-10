@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3050000475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a73a1ae5be90600f670784d5c1a7c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35a73a1ae5be90600f670784d5c1a7c1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/blue/frame/round frame.png
+Dependencies: []

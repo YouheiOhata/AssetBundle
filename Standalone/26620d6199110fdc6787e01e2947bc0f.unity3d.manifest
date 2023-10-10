@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 258515117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1720f8a02c735ddc28bfd2ceada6d0ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1720f8a02c735ddc28bfd2ceada6d0ee
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/Fonts/MPlusTestflight63a/mplus-2c-thin.ttf
+Dependencies: []

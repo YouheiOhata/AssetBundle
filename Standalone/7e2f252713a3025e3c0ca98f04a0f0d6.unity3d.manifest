@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2595492398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7099796497769ce0045f24c6363281e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7099796497769ce0045f24c6363281e5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/10 Elitist Monster/Little
+  Slim/04.png
+Dependencies: []

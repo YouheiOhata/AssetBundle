@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 553979114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a737c716387a17a38a3b2be712267f3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a737c716387a17a38a3b2be712267f3b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/10 Elitist Monster/Black
+  Hole/01.png
+Dependencies: []

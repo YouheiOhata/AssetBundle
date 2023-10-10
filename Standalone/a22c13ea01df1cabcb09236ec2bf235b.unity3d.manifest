@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 892831303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fec61bf3fd86d4d769fb1920509e865d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fec61bf3fd86d4d769fb1920509e865d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/06 Element/Fire/01.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2507954578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ece43ca4d1a1ad7eba666bfbe6eb875
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ece43ca4d1a1ad7eba666bfbe6eb875
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/03 The Cave/Skeleton/04.png
+Dependencies: []

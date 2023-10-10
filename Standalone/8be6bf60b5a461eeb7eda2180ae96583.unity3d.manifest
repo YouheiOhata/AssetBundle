@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2115839100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93676fda6c8e60e932c5dfa05a231541
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3a23ea3ff80291849d88dc5cb9fcdd6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 93676fda6c8e60e932c5dfa05a231541
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 12001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.IMGUIModule
+  ClassName: UnityEngine.GUISettings
+- AssemblyName: UnityEngine.IMGUIModule
+  ClassName: UnityEngine.GUIStyle
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/Demo/SampleSkin.guiskin
+Dependencies: []

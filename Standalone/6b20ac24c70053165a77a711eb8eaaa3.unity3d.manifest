@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3262381930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf052fbddb02292512a10ebf36dad2c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf052fbddb02292512a10ebf36dad2c5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/green/figures/7.png
+Dependencies: []

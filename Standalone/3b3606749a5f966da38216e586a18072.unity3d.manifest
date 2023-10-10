@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 248923956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1885da58c9b79485259c0a39ed5d404e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1885da58c9b79485259c0a39ed5d404e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/green/frame/square
+  frame.png
+Dependencies: []

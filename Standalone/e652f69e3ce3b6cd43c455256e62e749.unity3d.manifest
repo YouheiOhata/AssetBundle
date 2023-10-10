@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2004790719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d5bf5348f6ed2ab85d690aa646a11af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9d5bf5348f6ed2ab85d690aa646a11af
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/05 The Ocean/Tiger
+  shark/01.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 253061417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bd90ad5b21431692e6f83e542cad67b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9bd90ad5b21431692e6f83e542cad67b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/UI/menu mobile games/red/button/lock.png
+Dependencies: []

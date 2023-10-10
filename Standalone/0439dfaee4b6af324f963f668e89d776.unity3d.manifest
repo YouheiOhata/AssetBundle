@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2029742664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 095923ea1e481934b68c757249e665da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 095923ea1e481934b68c757249e665da
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Font/SU3DJPFont/Fonts/MPlusTestflight63a/mplus-2m-bold.ttf
+Dependencies: []

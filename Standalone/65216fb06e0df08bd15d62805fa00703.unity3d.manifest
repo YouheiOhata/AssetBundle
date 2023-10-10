@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 851715909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13d5a970945a9557a42fa5f6497e07e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 13d5a970945a9557a42fa5f6497e07e5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleManager/Assets/Assets/Chara/The Legend of Slim/03 The Cave/Gold/02.png
+Dependencies: []
